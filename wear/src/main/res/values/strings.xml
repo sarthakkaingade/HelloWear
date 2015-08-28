@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello Wear</string>
+    <string name="hello_round">Hello Wear!</string>
+    <string name="hello_square">Hello Square World!</string>
+</resources>
